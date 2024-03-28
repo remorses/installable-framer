@@ -1,5 +1,12 @@
 # unframer
 
+## 1.1.1
+
+### Patch Changes
+
+-   7615df6: Update framer to 2.4.1, update framer motion to 11.0.7
+-   e5cc18b: Remove postinstall script
+
 ## 1.1.0
 
 ### Minor Changes
